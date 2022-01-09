@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1641687887 source:c:\users\vitor\desktop\sculptor\main.cpp
+	<iostream>
+	"Sculptor.h"
+
+1641678982 c:\users\vitor\desktop\sculptor\include\sculptor.h
+
+1641682086 source:c:\users\vitor\desktop\sculptor\src\sculptor.cpp
+	"Sculptor.h"
+	<cmath>
+	<iostream>
+	<fstream>
+
+1641682086 source:c:\users\gabri\onedrive\Área de trabalho\sculptor\src\sculptor.cpp
+	"Sculptor.h"
+	<cmath>
+	<iostream>
+	<fstream>
+
+1641678982 c:\users\gabri\onedrive\Área de trabalho\sculptor\include\sculptor.h
+
