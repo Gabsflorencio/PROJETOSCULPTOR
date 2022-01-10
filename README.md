@@ -1,2 +1,2 @@
 # PROJETO SCULPTOR
-Projeto Sculptor consiste em funções que gerem uma escultura.off com as cordenadas dadas na main.cpp
+Projeto Sculptor consiste na realização funções que quando informada coordenadas especificas gerem uma escultura.off 
